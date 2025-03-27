@@ -1,4 +1,3 @@
-package ue3_Jandl.generics;
 
 public class GenericsBox<T> {
     private T[] contents;
