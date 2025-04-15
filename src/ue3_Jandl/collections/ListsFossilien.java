@@ -6,7 +6,7 @@ import java.util.List;
 
 import java.util.ArrayList;
 
-public class Lists {
+public class ListsFossilien {
     public static void main(String[] args) {
         Fossilien fossil1 = new Fossilien("name1", "farbe 1", "ort 1");
         Fossilien fossil2 = new Fossilien("name2", "farbe 1", "ort 1");

@@ -21,7 +21,6 @@ public class ReadingTracker_with_jandl {
         toBeRead.add(buch4);
 
 
-
         // Zeige die Listen an, bevor wir ein Buch lesen
         System.out.println("To Be Read:");
         showList(toBeRead);
@@ -40,7 +39,6 @@ public class ReadingTracker_with_jandl {
         showList(alreadyRead);
 
     }
-
 
     public static void showList(List<Buch> buecher) {  // Hier List<Buch> verwenden
         if (buecher.isEmpty()) {
